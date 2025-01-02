@@ -1,3 +1,3 @@
-# Generative Adversarial Networks
+# Neural Networks Repository
 
-Notes and codes about GANs.
+Courses, notes, and codes about neural networks, PyTorch/Tensorflow/Jax frameworks.
